@@ -4,6 +4,12 @@ An end-to-end data analytics project that analyzes industrial machine performanc
 
 The project combines **SQL**, **Python**, **Power BI**, and **Machine Learning** to identify failure patterns, analyze machine health, and generate actionable insights for predictive maintenance.
 
+##  Business Problem
+
+Unexpected machine failures increase maintenance costs, reduce production efficiency, and cause unplanned downtime.
+
+This project analyzes machine sensor data to identify failure patterns and support predictive maintenance strategies that help industries schedule maintenance before failures occur.
+
 ---
 
 ##  Project Objectives
