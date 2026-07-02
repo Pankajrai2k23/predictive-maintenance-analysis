@@ -63,7 +63,7 @@ The dataset contains simulated industrial machine data used to analyze machine h
 
 ### Executive Dashboard
 
-![Dashboard Overview](dashboard_images/dashboard.png)
+![Dashboard Overview](Dashboard_images/dashboard.png)
 
 The interactive Power BI dashboard provides insights into:
 
