@@ -57,3 +57,18 @@ The dataset contains simulated industrial machine data used to analyze machine h
 5. Python Data Analysis *(In Progress)*
 6. Machine Learning Model *(Planned)*
 7. AI Copilot *(Planned)*
+
+
+##  Dashboard Preview
+
+### Executive Dashboard
+
+![Dashboard Overview](dashboard_images/dashboard.png)
+
+The interactive Power BI dashboard provides insights into:
+
+- Overall machine failure rate
+- Machine type distribution
+- Failure type analysis
+- RPM, Torque, and Tool Wear trends
+- Interactive filtering for detailed analysis
